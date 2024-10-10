@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-10T19:26:54.321Z",
+  "created_by": "absempere",
+  "title": "Elizabeth Bishop reads \"Filling Station\" version two",
+  "slug": "elizabeth-bishop-rea",
+  "updated_at": "2024-10-10T19:26:54.321Z",
+  "updated_by": "absempere",
+  "parent": "a131f9f2-55db-48d5-a6d0-e43f13fe5979",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "8edebaa2-c2fc-4e35-b088-82de08c08833"
+  }
+}
