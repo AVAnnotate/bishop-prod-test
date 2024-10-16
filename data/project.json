@@ -1,1 +1,56 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"AVAnnotate","title":"Testing Bishop","description":"Testing Bishop on prod","language":"en","slug":"bishop-prod-test","creator":"absempere","authors":"ABS","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Speaker","color":"#ADFFD9"},{"category":"Reactions","color":"#ADFEFF"},{"color":"#F7ED78","category":"Notes"}],"tags":[{"tag":"Elizabeth Bishop","category":"Speaker"},{"tag":"Audience laughter","category":"Reactions"},{"tag":"Bishop laughter","category":"Reactions"},{"tag":"Punctuation","category":"Notes"}]},"created_at":"2024-10-10T19:26:25.936Z","updated_at":"2024-10-10T19:32:23.179Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "AVAnnotate",
+    "title": "Testing Bishop",
+    "description": "Testing Bishop on prod",
+    "language": "en",
+    "slug": "bishop-prod-test",
+    "creator": "absempere",
+    "authors": "ABS",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Reactions",
+          "color": "#ADFEFF"
+        },
+        {
+          "color": "#F7ED78",
+          "category": "Notes"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Audience laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Bishop laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Punctuation",
+          "category": "Notes"
+        }
+      ]
+    },
+    "created_at": "2024-10-10T19:26:25.936Z",
+    "updated_at": "2024-10-16T17:20:45.439Z"
+  }
+}
